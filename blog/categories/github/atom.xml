@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: github | My Octopress Blog]]></title>
+  <title><![CDATA[Category: github | My techie blog]]></title>
   <link href="http://fireant.github.com/anulap/blog/categories/github/atom.xml" rel="self"/>
   <link href="http://fireant.github.com/anulap/"/>
-  <updated>2012-12-01T11:09:08-08:00</updated>
+  <updated>2012-12-01T11:27:41-08:00</updated>
   <id>http://fireant.github.com/anulap/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Anulp Fireant]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
